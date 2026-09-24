@@ -1,0 +1,676 @@
+[
+  {
+    "claim_id": "SYN-000",
+    "documents": [
+      {
+        "id": "SYN-000-D0",
+        "type": "photo_estimate",
+        "raw_text": "windshield damage, estimated $1332.94"
+      },
+      {
+        "id": "SYN-000-D1",
+        "type": "police_report",
+        "raw_text": "windshield damage, estimated $1332.94"
+      }
+    ],
+    "repair_shop_total": 2539.25,
+    "prior_claims_history": {
+      "prior_claim_count": 0,
+      "prior_claim_flags": [],
+      "policy_limit": 5100.12
+    }
+  },
+  {
+    "claim_id": "SYN-001",
+    "documents": [
+      {
+        "id": "SYN-001-D0",
+        "type": "photo_estimate",
+        "raw_text": "bumper damage, estimated $1800.53"
+      },
+      {
+        "id": "SYN-001-D1",
+        "type": "police_report",
+        "raw_text": "bumper damage, estimated $1800.53"
+      }
+    ],
+    "repair_shop_total": 3452.31,
+    "prior_claims_history": {
+      "prior_claim_count": 1,
+      "prior_claim_flags": [],
+      "policy_limit": 5687.69
+    }
+  },
+  {
+    "claim_id": "SYN-002",
+    "documents": [
+      {
+        "id": "SYN-002-D0",
+        "type": "photo_estimate",
+        "raw_text": "fender damage, estimated $1263.73"
+      },
+      {
+        "id": "SYN-002-D1",
+        "type": "police_report",
+        "raw_text": "headlight damage, estimated $1263.73"
+      }
+    ],
+    "repair_shop_total": 2542.95,
+    "prior_claims_history": {
+      "prior_claim_count": 1,
+      "prior_claim_flags": [],
+      "policy_limit": 6864.08
+    }
+  },
+  {
+    "claim_id": "SYN-003",
+    "documents": [
+      {
+        "id": "SYN-003-D0",
+        "type": "photo_estimate",
+        "raw_text": "windshield damage, estimated $664.65"
+      },
+      {
+        "id": "SYN-003-D1",
+        "type": "police_report",
+        "raw_text": "headlight damage, estimated $664.65"
+      }
+    ],
+    "repair_shop_total": 1378.4,
+    "prior_claims_history": {
+      "prior_claim_count": 2,
+      "prior_claim_flags": [],
+      "policy_limit": 7035.23
+    }
+  },
+  {
+    "claim_id": "SYN-004",
+    "documents": [
+      {
+        "id": "SYN-004-D0",
+        "type": "photo_estimate",
+        "raw_text": "headlight damage, estimated $548.33"
+      },
+      {
+        "id": "SYN-004-D1",
+        "type": "police_report",
+        "raw_text": "bumper damage, estimated $548.33"
+      }
+    ],
+    "repair_shop_total": 1125.56,
+    "prior_claims_history": {
+      "prior_claim_count": 2,
+      "prior_claim_flags": [],
+      "policy_limit": 4408.84
+    }
+  },
+  {
+    "claim_id": "SYN-005",
+    "documents": [
+      {
+        "id": "SYN-005-D0",
+        "type": "photo_estimate",
+        "raw_text": "fender damage, estimated $1266.89"
+      },
+      {
+        "id": "SYN-005-D1",
+        "type": "police_report",
+        "raw_text": "bumper damage, estimated $1266.89"
+      }
+    ],
+    "repair_shop_total": 2611.61,
+    "prior_claims_history": {
+      "prior_claim_count": 3,
+      "prior_claim_flags": [
+        "late_filing"
+      ],
+      "policy_limit": 6918.93
+    }
+  },
+  {
+    "claim_id": "SYN-006",
+    "documents": [
+      {
+        "id": "SYN-006-D0",
+        "type": "photo_estimate",
+        "raw_text": "door panel damage, estimated $692.38"
+      },
+      {
+        "id": "SYN-006-D1",
+        "type": "police_report",
+        "raw_text": "fender damage, estimated $692.38"
+      }
+    ],
+    "repair_shop_total": 1402.57,
+    "prior_claims_history": {
+      "prior_claim_count": 1,
+      "prior_claim_flags": [],
+      "policy_limit": 7541.81
+    }
+  },
+  {
+    "claim_id": "SYN-007",
+    "documents": [
+      {
+        "id": "SYN-007-D0",
+        "type": "photo_estimate",
+        "raw_text": "bumper damage, estimated $234.78"
+      },
+      {
+        "id": "SYN-007-D1",
+        "type": "police_report",
+        "raw_text": "windshield damage, estimated $234.78"
+      }
+    ],
+    "repair_shop_total": 456.77,
+    "prior_claims_history": {
+      "prior_claim_count": 0,
+      "prior_claim_flags": [],
+      "policy_limit": 5157.55
+    }
+  },
+  {
+    "claim_id": "SYN-008",
+    "documents": [
+      {
+        "id": "SYN-008-D0",
+        "type": "photo_estimate",
+        "raw_text": "door panel damage, estimated $988.81"
+      },
+      {
+        "id": "SYN-008-D1",
+        "type": "police_report",
+        "raw_text": "windshield damage, estimated $988.81"
+      }
+    ],
+    "repair_shop_total": 2043.69,
+    "prior_claims_history": {
+      "prior_claim_count": 2,
+      "prior_claim_flags": [],
+      "policy_limit": 4650.62
+    }
+  },
+  {
+    "claim_id": "SYN-009",
+    "documents": [
+      {
+        "id": "SYN-009-D0",
+        "type": "photo_estimate",
+        "raw_text": "fender damage, estimated $1414.57"
+      },
+      {
+        "id": "SYN-009-D1",
+        "type": "police_report",
+        "raw_text": "windshield damage, estimated $1414.57"
+      }
+    ],
+    "repair_shop_total": 2707.87,
+    "prior_claims_history": {
+      "prior_claim_count": 1,
+      "prior_claim_flags": [],
+      "policy_limit": 6539.91
+    }
+  },
+  {
+    "claim_id": "SYN-010",
+    "documents": [
+      {
+        "id": "SYN-010-D0",
+        "type": "photo_estimate",
+        "raw_text": "windshield damage, estimated $649.40"
+      },
+      {
+        "id": "SYN-010-D1",
+        "type": "police_report",
+        "raw_text": "door panel damage, estimated $649.40"
+      }
+    ],
+    "repair_shop_total": 1354.06,
+    "prior_claims_history": {
+      "prior_claim_count": 0,
+      "prior_claim_flags": [],
+      "policy_limit": 6752.65
+    }
+  },
+  {
+    "claim_id": "SYN-011",
+    "documents": [
+      {
+        "id": "SYN-011-D0",
+        "type": "photo_estimate",
+        "raw_text": "windshield damage, estimated $209.38"
+      },
+      {
+        "id": "SYN-011-D1",
+        "type": "police_report",
+        "raw_text": "fender damage, estimated $209.38"
+      }
+    ],
+    "repair_shop_total": 411.04,
+    "prior_claims_history": {
+      "prior_claim_count": 2,
+      "prior_claim_flags": [],
+      "policy_limit": 5070.96
+    }
+  },
+  {
+    "claim_id": "SYN-012",
+    "documents": [
+      {
+        "id": "SYN-012-D0",
+        "type": "photo_estimate",
+        "raw_text": "windshield damage, estimated $1073.58"
+      },
+      {
+        "id": "SYN-012-D1",
+        "type": "police_report",
+        "raw_text": "door panel damage, estimated $1073.58"
+      }
+    ],
+    "repair_shop_total": 2229.76,
+    "prior_claims_history": {
+      "prior_claim_count": 1,
+      "prior_claim_flags": [],
+      "policy_limit": 6571.41
+    }
+  },
+  {
+    "claim_id": "SYN-013",
+    "documents": [
+      {
+        "id": "SYN-013-D0",
+        "type": "photo_estimate",
+        "raw_text": "fender damage, estimated $1188.53"
+      },
+      {
+        "id": "SYN-013-D1",
+        "type": "police_report",
+        "raw_text": "headlight damage, estimated $1188.53"
+      }
+    ],
+    "repair_shop_total": 2320.66,
+    "prior_claims_history": {
+      "prior_claim_count": 2,
+      "prior_claim_flags": [],
+      "policy_limit": 6338.34
+    }
+  },
+  {
+    "claim_id": "SYN-014",
+    "documents": [
+      {
+        "id": "SYN-014-D0",
+        "type": "photo_estimate",
+        "raw_text": "bumper damage, estimated $1995.44"
+      },
+      {
+        "id": "SYN-014-D1",
+        "type": "police_report",
+        "raw_text": "bumper damage, estimated $1995.44"
+      }
+    ],
+    "repair_shop_total": 3994.69,
+    "prior_claims_history": {
+      "prior_claim_count": 1,
+      "prior_claim_flags": [],
+      "policy_limit": 4363.64
+    }
+  },
+  {
+    "claim_id": "SYN-015",
+    "documents": [
+      {
+        "id": "SYN-015-D0",
+        "type": "photo_estimate",
+        "raw_text": "headlight damage, estimated $1615.35"
+      },
+      {
+        "id": "SYN-015-D1",
+        "type": "police_report",
+        "raw_text": "fender damage, estimated $1615.35"
+      }
+    ],
+    "repair_shop_total": 3205.54,
+    "prior_claims_history": {
+      "prior_claim_count": 3,
+      "prior_claim_flags": [],
+      "policy_limit": 4254.11
+    }
+  },
+  {
+    "claim_id": "SYN-016",
+    "documents": [
+      {
+        "id": "SYN-016-D0",
+        "type": "photo_estimate",
+        "raw_text": "bumper damage, estimated $1946.49"
+      },
+      {
+        "id": "SYN-016-D1",
+        "type": "police_report",
+        "raw_text": "fender damage, estimated $1946.49"
+      }
+    ],
+    "repair_shop_total": 4033.44,
+    "prior_claims_history": {
+      "prior_claim_count": 2,
+      "prior_claim_flags": [],
+      "policy_limit": 4045.92
+    }
+  },
+  {
+    "claim_id": "SYN-017",
+    "documents": [
+      {
+        "id": "SYN-017-D0",
+        "type": "photo_estimate",
+        "raw_text": "bumper damage, estimated $779.33"
+      },
+      {
+        "id": "SYN-017-D1",
+        "type": "police_report",
+        "raw_text": "door panel damage, estimated $779.33"
+      }
+    ],
+    "repair_shop_total": 1526.46,
+    "prior_claims_history": {
+      "prior_claim_count": 1,
+      "prior_claim_flags": [],
+      "policy_limit": 4632.63
+    }
+  },
+  {
+    "claim_id": "SYN-018",
+    "documents": [
+      {
+        "id": "SYN-018-D0",
+        "type": "photo_estimate",
+        "raw_text": "fender damage, estimated $346.86"
+      },
+      {
+        "id": "SYN-018-D1",
+        "type": "police_report",
+        "raw_text": "fender damage, estimated $346.86"
+      }
+    ],
+    "repair_shop_total": 702.41,
+    "prior_claims_history": {
+      "prior_claim_count": 1,
+      "prior_claim_flags": [],
+      "policy_limit": 7366.68
+    }
+  },
+  {
+    "claim_id": "SYN-019",
+    "documents": [
+      {
+        "id": "SYN-019-D0",
+        "type": "photo_estimate",
+        "raw_text": "fender damage, estimated $1560.64"
+      },
+      {
+        "id": "SYN-019-D1",
+        "type": "police_report",
+        "raw_text": "bumper damage, estimated $1560.64"
+      }
+    ],
+    "repair_shop_total": 3133.58,
+    "prior_claims_history": {
+      "prior_claim_count": 2,
+      "prior_claim_flags": [],
+      "policy_limit": 7114.51
+    }
+  },
+  {
+    "claim_id": "SYN-020",
+    "documents": [
+      {
+        "id": "SYN-020-D0",
+        "type": "photo_estimate",
+        "raw_text": "door panel damage, estimated $356.95"
+      },
+      {
+        "id": "SYN-020-D1",
+        "type": "police_report",
+        "raw_text": "windshield damage, estimated $356.95"
+      }
+    ],
+    "repair_shop_total": 1057.65,
+    "prior_claims_history": {
+      "prior_claim_count": 0,
+      "prior_claim_flags": [],
+      "policy_limit": 7941.29
+    }
+  },
+  {
+    "claim_id": "SYN-021",
+    "documents": [
+      {
+        "id": "SYN-021-D0",
+        "type": "photo_estimate",
+        "raw_text": "bumper damage, estimated $1199.61"
+      },
+      {
+        "id": "SYN-021-D1",
+        "type": "police_report",
+        "raw_text": "fender damage, estimated $1199.61"
+      }
+    ],
+    "repair_shop_total": 3213.46,
+    "prior_claims_history": {
+      "prior_claim_count": 1,
+      "prior_claim_flags": [],
+      "policy_limit": 6927.63
+    }
+  },
+  {
+    "claim_id": "SYN-022",
+    "documents": [
+      {
+        "id": "SYN-022-D0",
+        "type": "photo_estimate",
+        "raw_text": "fender damage, estimated $1029.27"
+      },
+      {
+        "id": "SYN-022-D1",
+        "type": "police_report",
+        "raw_text": "headlight damage, estimated $1029.27"
+      }
+    ],
+    "repair_shop_total": 3242.0,
+    "prior_claims_history": {
+      "prior_claim_count": 1,
+      "prior_claim_flags": [],
+      "policy_limit": 5060.23
+    }
+  },
+  {
+    "claim_id": "SYN-023",
+    "documents": [
+      {
+        "id": "SYN-023-D0",
+        "type": "photo_estimate",
+        "raw_text": "headlight damage, estimated $1547.24"
+      },
+      {
+        "id": "SYN-023-D1",
+        "type": "police_report",
+        "raw_text": "door panel damage, estimated $1547.24"
+      }
+    ],
+    "repair_shop_total": 5090.21,
+    "prior_claims_history": {
+      "prior_claim_count": 3,
+      "prior_claim_flags": [],
+      "policy_limit": 6851.8
+    }
+  },
+  {
+    "claim_id": "SYN-024",
+    "documents": [
+      {
+        "id": "SYN-024-D0",
+        "type": "photo_estimate",
+        "raw_text": "bumper damage, estimated $985.25"
+      },
+      {
+        "id": "SYN-024-D1",
+        "type": "police_report",
+        "raw_text": "fender damage, estimated $985.25"
+      }
+    ],
+    "repair_shop_total": 2805.9,
+    "prior_claims_history": {
+      "prior_claim_count": 1,
+      "prior_claim_flags": [],
+      "policy_limit": 4256.1
+    }
+  },
+  {
+    "claim_id": "SYN-025",
+    "documents": [
+      {
+        "id": "SYN-025-D0",
+        "type": "photo_estimate",
+        "raw_text": "bumper damage, estimated $163.31"
+      },
+      {
+        "id": "SYN-025-D1",
+        "type": "police_report",
+        "raw_text": "windshield damage, estimated $163.31"
+      }
+    ],
+    "repair_shop_total": 333.4,
+    "prior_claims_history": {
+      "prior_claim_count": 0,
+      "prior_claim_flags": [],
+      "policy_limit": 163.31
+    }
+  },
+  {
+    "claim_id": "SYN-026",
+    "documents": [
+      {
+        "id": "SYN-026-D0",
+        "type": "photo_estimate",
+        "raw_text": "windshield damage, estimated $1740.33"
+      },
+      {
+        "id": "SYN-026-D1",
+        "type": "police_report",
+        "raw_text": "door panel damage, estimated $1740.33"
+      }
+    ],
+    "repair_shop_total": 3331.28,
+    "prior_claims_history": {
+      "prior_claim_count": 3,
+      "prior_claim_flags": [],
+      "policy_limit": 1740.33
+    }
+  },
+  {
+    "claim_id": "SYN-027",
+    "documents": [
+      {
+        "id": "SYN-027-D0",
+        "type": "photo_estimate",
+        "raw_text": "fender damage, estimated $394.77"
+      },
+      {
+        "id": "SYN-027-D1",
+        "type": "police_report",
+        "raw_text": "fender damage, estimated $394.77"
+      }
+    ],
+    "repair_shop_total": 823.94,
+    "prior_claims_history": {
+      "prior_claim_count": 3,
+      "prior_claim_flags": [],
+      "policy_limit": 394.77
+    }
+  },
+  {
+    "claim_id": "SYN-028",
+    "documents": [
+      {
+        "id": "SYN-028-D0",
+        "type": "photo_estimate",
+        "raw_text": "headlight damage, estimated $341.67"
+      },
+      {
+        "id": "SYN-028-D1",
+        "type": "police_report",
+        "raw_text": "door panel damage, estimated $341.67"
+      },
+      {
+        "id": "SYN-028-D2",
+        "type": "photo_estimate",
+        "raw_text": "headlight damage, estimated $341.67"
+      },
+      {
+        "id": "SYN-028-D3",
+        "type": "police_report",
+        "raw_text": "headlight damage, estimated $341.67"
+      },
+      {
+        "id": "SYN-028-D4",
+        "type": "photo_estimate",
+        "raw_text": "headlight damage, estimated $341.67"
+      },
+      {
+        "id": "SYN-028-D5",
+        "type": "police_report",
+        "raw_text": "bumper damage, estimated $341.67"
+      }
+    ],
+    "repair_shop_total": 2030.95,
+    "prior_claims_history": {
+      "prior_claim_count": 0,
+      "prior_claim_flags": [
+        "late_filing"
+      ],
+      "policy_limit": 4377.3
+    }
+  },
+  {
+    "claim_id": "SYN-029",
+    "documents": [
+      {
+        "id": "SYN-029-D0",
+        "type": "photo_estimate",
+        "raw_text": "windshield damage, estimated $499.06"
+      },
+      {
+        "id": "SYN-029-D1",
+        "type": "police_report",
+        "raw_text": "windshield damage, estimated $499.06"
+      },
+      {
+        "id": "SYN-029-D2",
+        "type": "photo_estimate",
+        "raw_text": "fender damage, estimated $499.06"
+      },
+      {
+        "id": "SYN-029-D3",
+        "type": "police_report",
+        "raw_text": "headlight damage, estimated $499.06"
+      },
+      {
+        "id": "SYN-029-D4",
+        "type": "photo_estimate",
+        "raw_text": "windshield damage, estimated $499.06"
+      },
+      {
+        "id": "SYN-029-D5",
+        "type": "police_report",
+        "raw_text": "headlight damage, estimated $499.06"
+      }
+    ],
+    "repair_shop_total": 3084.4,
+    "prior_claims_history": {
+      "prior_claim_count": 1,
+      "prior_claim_flags": [],
+      "policy_limit": 4437.08
+    }
+  }
+]
